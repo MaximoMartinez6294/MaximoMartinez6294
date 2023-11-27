@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi 👋, I'm Maximo Martinez!
+
+
+
+## 🔥 Programming Languages and Tools:
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react"/><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git"/>
+</div>
 
 <!--
 **MaximoMartinez6294/MaximoMartinez6294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
