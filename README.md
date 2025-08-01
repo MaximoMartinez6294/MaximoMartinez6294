@@ -5,7 +5,7 @@
 ## 🔥 Programming Languages and Tools:
 <div align="left">
     <img src="https://skillicons.dev/icons?i=html,css,js,react"/><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,ruby,swift" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,ruby,swift,xcode" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,git"/>
 </div>
 
