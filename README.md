@@ -4,7 +4,7 @@
 
 ## 🔥 Programming Languages and Tools:
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react"/><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,astro"/><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,ruby,swift" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,git"/>
     <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode"/>
