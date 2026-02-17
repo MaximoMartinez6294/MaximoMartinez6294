@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 Sobre mí
-Soy un desarrollador **Full Stack** apasionado por crear soluciones eficientes. Actualmente trabajando en **Wolk Software** y estudiando Ciencias de la Computación en la **UNS**.
+Soy un desarrollador **Full Stack** apasionado por crear soluciones eficientes.Estudiante de Ciencias de la Computación en la **UNS**.
 
 ---
 
