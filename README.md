@@ -41,8 +41,8 @@ Soy un desarrollador **Full Stack** apasionado por crear soluciones eficientes.E
 
 ### 📊 Mis Estadísticas
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maximomartinezz&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximomartinezz&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maximomartinez6294&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximomartinez6294&layout=compact&theme=radical" />
 </p>
 
 ---
