@@ -5,9 +5,10 @@
 ## 🔥 Programming Languages and Tools:
 <div align="left">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,astro"/><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,ruby,swift,docker,postgres,gradle" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,github,git"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,ruby,cs,azure,azuredevops" /><br>
+    <img src="https://skillicons.dev/icons?i=swift,androidstudio,docker,gradle,vscode,github,git"/><br>
     <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode"/>
+    <img src="https://img.shields.io/badge/SQL%20Server%20Studio-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
 </div>
 
 <i>Connect with me:</i><br>
