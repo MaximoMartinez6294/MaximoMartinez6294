@@ -36,9 +36,7 @@ Soy desarrollador **Full Stack** y estudiante de Ciencias de la Computación en 
 ### 📊 Mis Estadísticas
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaximoMartinez6294&theme=radical" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaximoMartinez6294&theme=radical" alt="Languages" />
-</p>
+  <br>
 
 ---
 
