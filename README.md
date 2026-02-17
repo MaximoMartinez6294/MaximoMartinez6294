@@ -1,4 +1,4 @@
-# Hi 👋, I'm Maximo Martinez!
+# Hola , Soy Maximo Martinez!
 
 <p align="left">
 <a href="https://www.linkedin.com/in/maximomartinezz/" target="_blank">
@@ -10,26 +10,20 @@
 ---
 
 ### 🚀 Sobre mí
-Soy un desarrollador **Full Stack** enfocado en crear aplicaciones robustas y escalables.
+Soy desarrollador **Full Stack** y estudiante de Ciencias de la Computación en la **UNS**. Me apasiona el desarrollo de software robusto y siempre estoy explorando nuevas tecnologías.
 
 ---
 
 ### 🔥 Tecnologías y Herramientas
 
 #### 🌐 Frontend & Frameworks
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,astro" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,astro&theme=dark" />
 
 #### ⚙️ Backend, Cloud & DB
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,ruby,cs,azure,azuredevops" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,ruby,cs,azure,azuredevops&theme=dark" />
 
 #### 📱 Mobile & DevTools
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=swift,androidstudio,docker,gradle,vscode,github,git" />
-</p>
+<img src="https://skillicons.dev/icons?i=swift,androidstudio,docker,gradle,vscode,github,git&theme=dark" />
 
 #### 🛠️ Specialized Tools
 <p align="left">
@@ -39,29 +33,16 @@ Soy un desarrollador **Full Stack** enfocado en crear aplicaciones robustas y es
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Mis Estadísticas
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaximoMartinez6294&theme=radical" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaximoMartinez6294&theme=radical" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MaximoMartinez6294&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximoMartinez6294&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Langs" />
 </p>
 
 ---
 
+### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MaximoMartinez6294/MaximoMartinez6294/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/MaximoMartinez6294/MaximoMartinez6294/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-<!--
-**MaximoMartinez6294/MaximoMartinez6294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
