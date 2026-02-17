@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 Sobre mí
-Soy un desarrollador **Full Stack** apasionado por crear soluciones eficientes.Estudiante de Ciencias de la Computación en la **UNS**.
+Soy un desarrollador **Full Stack** enfocado en crear aplicaciones robustas y escalables. Actualmente formo parte del equipo de **Wolk Software** y continúo mi formación en Ciencias de la Computación en la **Universidad Nacional del Sur**.
 
 ---
 
@@ -39,16 +39,16 @@ Soy un desarrollador **Full Stack** apasionado por crear soluciones eficientes.E
 
 ---
 
-### 📊 Mis Estadísticas
+### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MaximoMartinez6294&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximoMartinez6294&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MaximoMartinez6294&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximoMartinez6294&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <i>"El código es poesía en movimiento."</i>
+  <img src="https://raw.githubusercontent.com/MaximoMartinez6294/MaximoMartinez6294/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 <!--
 **MaximoMartinez6294/MaximoMartinez6294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
