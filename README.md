@@ -35,9 +35,9 @@ Soy desarrollador **Full Stack** y estudiante de Ciencias de la Computación en 
 
 ### 📊 Mis Estadísticas
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaximoMartinez6294&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximoMartinez6294&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MaximoMartinez6294&show_icons=true&theme=radical" alt="Maximo's GitHub stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximoMartinez6294&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 ---
