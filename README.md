@@ -8,7 +8,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,ruby,cs,azure,azuredevops" /><br>
     <img src="https://skillicons.dev/icons?i=swift,androidstudio,docker,gradle,vscode,github,git"/><br>
     <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode"/>
-    <img src="https://img.shields.io/badge/SQL%20Server%20Studio-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+    <img src="https://img.shields.io/badge/Azure%20Data%20Studio-0078D4?style=for-the-badge&logo=azure-data-studio&logoColor=white" alt="Azure Data Studio"/>
 </div>
 
 <i>Connect with me:</i><br>
