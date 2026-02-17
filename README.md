@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 Sobre mí
-Soy un desarrollador **Full Stack** enfocado en crear aplicaciones robustas y escalables. Actualmente formo parte del equipo de **Wolk Software** y continúo mi formación en Ciencias de la Computación en la **Universidad Nacional del Sur**.
+Soy un desarrollador **Full Stack** enfocado en crear aplicaciones robustas y escalables.
 
 ---
 
@@ -40,9 +40,10 @@ Soy un desarrollador **Full Stack** enfocado en crear aplicaciones robustas y es
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MaximoMartinez6294&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximoMartinez6294&layout=compact&theme=radical&hide_border=true" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaximoMartinez6294&theme=radical" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaximoMartinez6294&theme=radical" alt="Languages" />
 </p>
 
 ---
