@@ -20,7 +20,7 @@ Soy desarrollador **Full Stack** y estudiante de Ciencias de la Computación en 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,astro&theme=dark" />
 
 #### ⚙️ Backend, Cloud & DB
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,ruby,cs,azure,azuredevops&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,ruby,cs,azure,azuredevops,azuredatastudio&theme=dark" />
 
 #### 📱 Mobile & DevTools
 <img src="https://skillicons.dev/icons?i=swift,androidstudio,docker,gradle,vscode,github,git&theme=dark" />
